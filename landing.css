@@ -1,0 +1,116 @@
+.top{
+    color: blueviolet;
+}
+
+.colorful-text{
+    font-size: 50px;
+    /**background-color: #f2bf9d;**/
+    background-image: linear-gradient(to right, rgb(221, 142, 142),rgb(244, 217, 167),yellow,rgb(183, 217, 183),rgb(172, 172, 235),rgb(199, 156, 231),rgb(239, 159, 239));
+    color: black;
+    padding: 4px
+}
+
+.nav{
+    font-size: 25px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
+}
+
+.hero{
+    background-image: url(assets/heroImage.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 640px;
+    margin-top: 40px;
+}
+
+.btn{
+    margin-bottom: 40px;
+    text-align: center;
+   
+}
+
+/**
+.cards{
+    width: 60rem;
+    margin: 20px;
+    align-content: space-evenly;
+    align-items: center;
+}
+**/
+
+h2{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.card {
+    margin-left: 70px;
+}
+
+
+.card-img-top{
+   /** height: 300px;
+    width: 287px;**/
+    background-size: cover;   
+}
+
+.card-title{
+    text-align: center;
+}
+
+.btn btn-primary{
+    align-items: center;
+
+}
+
+.button-container {
+    text-align: center;
+    margin-top: 20px; /* Adjust as needed */
+}
+
+.row{
+    background-color: aliceblue;
+}
+
+#Input1{
+    width: 500px;
+    margin-left: 50px;
+}
+
+label{
+ margin-left: 50px;
+}
+
+.contactus{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    padding: 3px;
+}
+
+.list-group-item{
+    background-image: linear-gradient(to right, rgb(221, 142, 142),rgb(244, 217, 167),yellow,rgb(183, 217, 183),rgb(172, 172, 235),rgb(199, 156, 231),rgb(239, 159, 239));
+}
+
+/**
+ul{
+    text-align: center;
+}
+**/
+
+.contact-btn{
+    text-align: center;
+}
+
+#Textarea1{
+   margin-right: 120px;
+}
+
+.form-label{
+    padding-right: 150px;
+}
+
+
